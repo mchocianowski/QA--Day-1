@@ -1,1 +1,2 @@
-# QA--Day-1
+Welcome to QA Day one with Git.
+
